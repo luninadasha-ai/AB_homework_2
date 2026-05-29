@@ -1,5 +1,7 @@
 # AB_homework_2
 Code for the second home work assignment
+
+
 Exercise 1:
 Output:
 Row sums
